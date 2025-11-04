@@ -41,7 +41,3 @@ A legal document summarizer leveraging multiple NLP models including Transformer
 - ⚙️ **Config-driven**: YAML configs to switch models, hyperparams, and thresholds.
 - 🐳 **Reproducible**: Dockerfile + Makefile for consistent runs.
 - 🎛️ **CLI & API**: simple commands + Python API for integration.
-
----
-
-## Architecture
