@@ -2,7 +2,7 @@
 
 > Multi-model legal summarization with Transformer encoder-decoders (T5, PEGASUS, LED/Long T5), Seq2Seq, extractive BERT, and optional GPT inference.
 
-![Legal Document Summarizer Banner](https://github.com/Manjur13/Legal-Document-Summarizer/assets/your-image-id/banner.png)
+![Legal Document Summarizer Banner](https://github.com/Manjur13/Legal-Document-Summarizer/assets/your-image-id/legaldocumentsummarization copy.png)
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
